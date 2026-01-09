@@ -1,0 +1,14 @@
+node_modules
+# Keep environment variables out of version control
+.env
+
+/src/generated/prisma
+dist
+*.log
+.DS_Store
+ASSESSMENT_CHECKLIST.md
+DEPLOYMENT.md
+PROJECT_INTERVIEW_GUIDE.md
+QUICKSTART.md
+README.md
+TROUBLESHOOTING.md
